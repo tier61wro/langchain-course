@@ -658,6 +658,7 @@ dependencies = [
     { name = "langchain-community" },
     { name = "langchain-core" },
     { name = "langchain-gigachat" },
+    { name = "python-dotenv" },
 ]
 
 [package.metadata]
@@ -667,6 +668,7 @@ requires-dist = [
     { name = "langchain-community", specifier = ">=0.4.2" },
     { name = "langchain-core", specifier = ">=1.6.2" },
     { name = "langchain-gigachat", specifier = ">=0.5.1" },
+    { name = "python-dotenv", specifier = ">=1.2.3" },
 ]
 
 [[package]]
