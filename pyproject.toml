@@ -9,5 +9,6 @@ dependencies = [
     "langchain-core>=1.6.2",
     "langchain-gigachat>=0.5.1",
     "langchain-openai>=1.6.2",
+    "pydantic>=2.13.5",
     "python-dotenv>=1.2.3",
 ]
